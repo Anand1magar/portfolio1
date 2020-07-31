@@ -1,2 +1,2 @@
 # portfolio1
-In this portfolio i ma using html css bootstrap JS   
+In this portfolio i am using html css bootstrap JS   
